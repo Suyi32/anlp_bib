@@ -1,5 +1,4 @@
 # Annotated bibliography for dialogue system
-Suyi Li
 
 ## Contributing
 Please feel free to email Suyi Li (suyi.li@yale.edu).
@@ -13,10 +12,10 @@ Please feel free to email Suyi Li (suyi.li@yale.edu).
 
 
 ## Task-oriented Dialogue System
-For task-oriented applications, they are built to handle relatively specific tasks and assist users to achieve specific goals. (e.g. find products, restaurants or flights reservation)
-__
+For task-oriented dialogue systems, they are built to handle relatively specific tasks and assist users to achieve specific goals. (e.g. find products, restaurants or flights reservation)
 
-[**Task-oriented Dialogue System for Automatic Diagnosis**](http://aclweb.org/anthology/P18-2033) [[project page](https://github.com/LiuQL2/MedicalChatbot)]
+
+[**Task-oriented Dialogue System for Automatic Diagnosis**](http://aclweb.org/anthology/P18-2033) [[GitHub](https://github.com/LiuQL2/MedicalChatbot)]
 
 Qianlong Liu, Zhongyu Wei, Baolin Peng, Xiangying Dai, Huaixiao Tou, Ting Chen, Xuanjing Huang, Kam-fai Wong (ACL'18)
 
@@ -33,8 +32,8 @@ Present a hybrid imitation and reinforcement learning method for training task-o
 ***
 
 Other Related Papers
-[**A Network-based End-to-End Trainable Task-oriented Dialogue System**](https://arxiv.org/pdf/1604.04562.pdf) [[GitHub](https://github.com/shawnwun/NNDIAL)](EACL'17)
-[**End-to-End Learning of Task-Oriented Dialogs**](http://aclweb.org/anthology/N18-4010)
-[**Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures**](http://aclweb.org/anthology/P18-1133) [[GitHub](https://github.com/WING-NUS/sequicity)](ACL'18)
-[**Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**](http://aclweb.org/anthology/P18-1136) [[GitHub](https://github.com/HLTCHKUST/Mem2Seq)](ACL'18)
-[**Learning End-to-End Goal-Oriented Dialog**](https://arxiv.org/pdf/1605.07683.pdf)(ICLR'18)
+* [**A Network-based End-to-End Trainable Task-oriented Dialogue System**](https://arxiv.org/pdf/1604.04562.pdf) [[GitHub](https://github.com/shawnwun/NNDIAL)](EACL'17)
+* [**End-to-End Learning of Task-Oriented Dialogs**](http://aclweb.org/anthology/N18-4010)
+* [**Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures**](http://aclweb.org/anthology/P18-1133) [[GitHub](https://github.com/WING-NUS/sequicity)](ACL'18)
+* [**Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**](http://aclweb.org/anthology/P18-1136) [[GitHub](https://github.com/HLTCHKUST/Mem2Seq)](ACL'18)
+* [**Learning End-to-End Goal-Oriented Dialog**](https://arxiv.org/pdf/1605.07683.pdf)(ICLR'18)
