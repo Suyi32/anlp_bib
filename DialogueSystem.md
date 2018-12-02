@@ -107,16 +107,11 @@ values while still obtains state-of-the-art accuracy on the standard DSTC2 bench
 * [**Automatic Dialogue Generation with Expressed Emotions**](http://aclweb.org/anthology/N18-2008)(NAACL'18)
 * [**Adversarial Learning for Neural Dialogue Generation**](https://arxiv.org/pdf/1701.06547.pdf)[[GitHub](https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow)](EMNLP'17)
 
-
 ### Reinforcement Learning in Dialogue System
 * [**Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access**](http://www.aclweb.org/anthology/P17-1045)][[GitHub](https://github.com/MiuLab/KB-InfoBot)](ACL'17)
-
 * [**Feudal Reinforcement Learning for Dialogue Management in Large Domains**](https://arxiv.org/pdf/1803.03232.pdf)(NAACL'18)
-
 * [**On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**](https://arxiv.org/pdf/1605.07669.pdf)(ACL'16)
-
 * [**Learning to Compose Words into Sentences with Reinforcement Learning**](https://arxiv.org/pdf/1611.09100.pdf)(ICLR'17)
-
 * [**Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning**](https://arxiv.org/pdf/1704.03084.pdf)[[Microsoft Page](https://www.microsoft.com/en-us/research/publication/composite-task-completion-dialogue-system-via-hierarchical-deep-reinforcement-learning/)](EMNLP'17)
 
 
