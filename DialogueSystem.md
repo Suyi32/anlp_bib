@@ -91,7 +91,7 @@ values while still obtains state-of-the-art accuracy on the standard DSTC2 bench
 
 ## Tools for Dialogue System Research
 * [**DeepPavlov: Open-Source Library for Dialogue Systems**](http://aclweb.org/anthology/P18-4021) [[GitHub](https://github.com/deepmipt/DeepPavlov)](ACL'18)
-* [**ParlAI: A Dialog Research Software Platform**](https://arxiv.org/pdf/1705.06476.pdf)[[Project Page](http://www.parl.ai/)] [[GitHub](https://github.com/facebookresearch/ParlAI)]
+* [**ParlAI: A Dialog Research Software Platform**](https://arxiv.org/pdf/1705.06476.pdf)[[Project Page](http://www.parl.ai/)] [[GitHub](https://github.com/facebookresearch/ParlAI)](EMNLP'17)
 
 ***
 
